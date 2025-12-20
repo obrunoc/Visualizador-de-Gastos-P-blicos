@@ -7,7 +7,7 @@ import { Github, Linkedin, Mail, MapPin, Twitter, Facebook } from 'lucide-react'
 // ============================================================================
 
 const SITE_CONFIG = {
-  name: 'Bruno',
+  name: ' Bruno',
   title: 'Web Developer',
   subtitle: 'Front End Developer',
   email: 'bruno@socdefense.com',
