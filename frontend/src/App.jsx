@@ -375,7 +375,7 @@ const HeroSection = () => {
               Oi,
             </span>
             <br />
-            <span className="text-white inline-block">Eu sou </span>
+            <span className="text-white inline-block">Eu sou  </span>
             <span
               className="text-transparent bg-clip-text inline-block hover:scale-110 transition-transform duration-300 animate-gradient"
               style={{
